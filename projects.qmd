@@ -1,0 +1,79 @@
+---
+title: "Marketing Portfolio"
+---
+
+This page highlights three areas of my marketing experience: business marketing, student organization leadership, and marketing analytics.
+
+
+<h2 class="portfolio-title">
+  <img src="images/HD.png" class="section-icon">
+  Homey Design Digital Marketing
+</h2>
+
+At Homey Design, I gained hands-on experience supporting marketing and sales for a furniture business. My work included helping create promotional content, developing product-focused captions, and improving how furniture collections are presented to customers.
+
+This experience helped me understand how marketing works in a real business setting. For furniture marketing, the message needs to communicate comfort, style, quality, and lifestyle value while still keeping the product as the main focus.
+
+### Skills Demonstrated
+
+- Product promotion
+- Social media caption writing
+- Brand messaging
+- Visual product presentation
+- Retail marketing strategy
+- Customer-focused communication
+- Sales support
+
+Working with Homey Design helped me see how marketing directly connects to customer interest and sales. It also taught me how important it is to create clear, professional, and visually appealing marketing messages.
+
+---
+
+<h2 class="portfolio-title">
+  <img src="images/CEO.jpg" class="section-icon">
+  Collegiate Entrepreneurs Organization Marketing
+</h2>
+
+Through my involvement with the Collegiate Entrepreneurs Organization at Cal Poly Pomona, I developed experience in student outreach, event promotion, and marketing communication. My work supported club visibility through social media content, newsletters, announcements, and promotional messaging.
+
+This experience strengthened my leadership and communication skills because club marketing requires consistency, creativity, and an understanding of what motivates students to participate.
+
+### Skills Demonstrated
+
+- Social media marketing
+- Newsletter communication
+- Event promotion
+- Student outreach
+- Leadership
+- Team collaboration
+- Community engagement
+
+My involvement in CEO helped me understand how marketing can build a community. Promoting a club is different from promoting a product because the goal is to create interest, trust, and participation among students.
+
+---
+
+<h2 class="portfolio-title">
+  <img src="images/google.png" class="section-icon">
+  Marketing Analytics and Google Analytics Coursework
+</h2>
+
+Through my coursework, I learned how marketing performance can be measured using tools such as Google Analytics 4, dashboards, and KPIs. I practiced reviewing website behavior, identifying useful metrics, and connecting data to business decisions.
+
+This connects to my marketing career interests because strong marketing should be both creative and measurable. Analytics helps businesses understand what is working, what needs improvement, and how customers interact with digital content.
+
+### Skills Demonstrated
+
+- Google Analytics 4
+- KPI tracking
+- Website traffic analysis
+- Dashboard thinking
+- Data interpretation
+- Digital marketing measurement
+- Business decision-making
+
+Marketing analytics helped me understand the data side of marketing. A strong campaign should not only look good, but also be measured through engagement, traffic, conversions, and customer behavior.
+
+---
+
+## Career Reflection
+
+Overall, my marketing interests combine creativity, strategy, and analytics. Homey Design gave me real business marketing experience, CEO helped me develop leadership and outreach skills, and my analytics coursework helped me understand how data supports marketing decisions.

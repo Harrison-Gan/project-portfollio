@@ -1,0 +1,205 @@
+[
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Marketing Portfolio",
+    "section": "",
+    "text": "This page highlights three areas of my marketing experience: business marketing, student organization leadership, and marketing analytics.\nAt Homey Design, I gained hands-on experience supporting marketing and sales for a furniture business. My work included helping create promotional content, developing product-focused captions, and improving how furniture collections are presented to customers.\nThis experience helped me understand how marketing works in a real business setting. For furniture marketing, the message needs to communicate comfort, style, quality, and lifestyle value while still keeping the product as the main focus."
+  },
+  {
+    "objectID": "projects.html#career-reflection",
+    "href": "projects.html#career-reflection",
+    "title": "Marketing Portfolio",
+    "section": "Career Reflection",
+    "text": "Career Reflection\nOverall, my marketing interests combine creativity, strategy, and analytics. Homey Design gave me real business marketing experience, CEO helped me develop leadership and outreach skills, and my analytics coursework helped me understand how data supports marketing decisions."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Home",
+    "section": "",
+    "text": "Harrison Gan\n\n\nMarketing student. Digital marketing creator. Analytics-driven business thinker.\n\nI am a Cal Poly Pomona student focused on marketing, brand promotion, customer engagement, and data-driven decision-making.\nMy portfolio highlights my experience with Homey Design, Collegiate Entrepreneurs Organization, Google Analytics, dashboards, and professional business communication.\n\nView Marketing Work Google Analytics"
+  },
+  {
+    "objectID": "index.html#what-i-do",
+    "href": "index.html#what-i-do",
+    "title": "Home",
+    "section": "What I Do",
+    "text": "What I Do\nMy marketing interests combine creativity, business strategy, and analytics.\nI enjoy creating promotional content, improving brand communication, understanding customer behavior, and using data to support stronger marketing decisions."
+  },
+  {
+    "objectID": "index.html#featured-experience",
+    "href": "index.html#featured-experience",
+    "title": "Home",
+    "section": "Featured Experience",
+    "text": "Featured Experience\n\nHomey Design Marketing\nDeveloped experience with furniture marketing, product promotion, visual presentation, and customer-focused messaging for bedroom, dining room, and living room collections.\n\n\nCEO Club Marketing Leadership\nSupported marketing, outreach, newsletters, social media content, and student engagement through the Collegiate Entrepreneurs Organization at Cal Poly Pomona.\n\n\nMarketing Analytics Coursework\nPracticed using Google Analytics 4, dashboards, KPIs, Quarto, and data visualization to measure digital marketing performance."
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Home",
+    "section": "Skills",
+    "text": "Skills\n\nDigital marketing\nProduct promotion\nSocial media marketing\nBrand messaging\nCustomer engagement\nNewsletter communication\nEvent promotion\nGoogle Analytics 4\nKPI tracking\nDashboard creation\nQuarto website development\nBusiness communication"
+  },
+  {
+    "objectID": "index.html#contact-me",
+    "href": "index.html#contact-me",
+    "title": "Home",
+    "section": "Contact Me",
+    "text": "Contact Me\nWant to know more about how my skill set can help you?\nWhether you’re looking for someone with marketing, business analytics, digital promotion, or customer engagement experience, I’d love to connect.\nharrisongan@cpp.edu · LinkedIn"
+  },
+  {
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Marketing Dashboard",
+    "section": "",
+    "text": "This dashboard connects what I learned in IBM3202 to my career interests in marketing, digital promotion, customer engagement, and business analytics.\nThe goal of this page is to show how marketing data can be organize into clear visuals that help businesses make better decisions.\nThis dashboard uses sample marketing data to represent the types of metrics I would track for a business"
+  },
+  {
+    "objectID": "dashboard.html#latest-month-summary",
+    "href": "dashboard.html#latest-month-summary",
+    "title": "Marketing Dashboard",
+    "section": "Latest Month Summary",
+    "text": "Latest Month Summary\n\n\n# A tibble: 1 × 5\n  Month Website_Visits Social_Engagement Leads Conversion_Rate\n  &lt;fct&gt;          &lt;dbl&gt;             &lt;dbl&gt; &lt;dbl&gt;           &lt;dbl&gt;\n1 Jun             1950               465    82             4.2\n\n\nFor the latest month, the dashboard shows:\n\nWebsite Visits: 1950\nSocial Engagement: 465\nLeads: 82\nConversion Rate: 4.2%\n\nThese KPIs connect to marketing because they help measure awareness, engagement, customer interest, and action."
+  },
+  {
+    "objectID": "dashboard.html#website-visits-over-time",
+    "href": "dashboard.html#website-visits-over-time",
+    "title": "Marketing Dashboard",
+    "section": "Website Visits Over Time",
+    "text": "Website Visits Over Time\nWebsite visits help measure digital visibility. In marketing, this can show whether more people are discovering a business, campaign, or organization online."
+  },
+  {
+    "objectID": "dashboard.html#social-media-engagement",
+    "href": "dashboard.html#social-media-engagement",
+    "title": "Marketing Dashboard",
+    "section": "Social Media Engagement",
+    "text": "Social Media Engagement\nSocial media engagement is important because it shows whether content is connecting with an audience. Strong content can help increase attention, interest, and participation."
+  },
+  {
+    "objectID": "dashboard.html#leads-generated",
+    "href": "dashboard.html#leads-generated",
+    "title": "Marketing Dashboard",
+    "section": "Leads Generated",
+    "text": "Leads Generated\nLeads represent potential customers or people showing interest. For a business, leads could come from website visits, product inquiries, social media messages, or promotional campaigns."
+  },
+  {
+    "objectID": "dashboard.html#conversion-rate",
+    "href": "dashboard.html#conversion-rate",
+    "title": "Marketing Dashboard",
+    "section": "Conversion Rate",
+    "text": "Conversion Rate\nConversion rate shows the percentage of users who take a valuable action. In marketing, this matters because it helps measure whether attention is turning into results."
+  },
+  {
+    "objectID": "dashboard.html#reflection",
+    "href": "dashboard.html#reflection",
+    "title": "Marketing Dashboard",
+    "section": "Reflection",
+    "text": "Reflection\nA strong marketing strategy should attract attention, communicate value, and produce measurable results. Through IBM3202, I learned how tools like Quarto, R, dashboards, and Google Analytics can be used to organize business information clearly and support smarter decisions based on evidence instead of guessing.\nI can apply these skills to real marketing situations, such as promoting products, improving social media performance, increasing event engagement, and evaluating marketing campaigns."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "google-analytics.html",
+    "href": "google-analytics.html",
+    "title": "Google Analytics",
+    "section": "",
+    "text": "This page highlights what I learned and accomplished in IBM 3202 through Google Analytics, Quarto, dashboards, and marketing performance analysis. This section connects my technical coursework to my career interest in marketing."
+  },
+  {
+    "objectID": "google-analytics.html#google-analytics-certification",
+    "href": "google-analytics.html#google-analytics-certification",
+    "title": "Google Analytics",
+    "section": "Google Analytics Certification",
+    "text": "Google Analytics Certification\nAs part of this course, I completed Google Analytics-related training and practiced using analytics concepts to understand digital performance.\n\nGoogle Analytics Individual Qualification"
+  },
+  {
+    "objectID": "google-analytics.html#what-i-learned-in-ibm-3202",
+    "href": "google-analytics.html#what-i-learned-in-ibm-3202",
+    "title": "Google Analytics",
+    "section": "What I Learned in IBM 3202",
+    "text": "What I Learned in IBM 3202\nIBM 3202 helped me understand how data, websites, dashboards, and analytics tools can support business and marketing decisions. Instead of only thinking about marketing creatively, I learned how to measure performance using data.\nSome of the most important topics I learned include:\n\nGoogle Analytics 4\nWebsite traffic analysis\nUser acquisition\nEngagement metrics\nConversion events\nKPI tracking\nMarketing dashboards\nQuarto website development\nR-based data visualization\nGitHub publishing"
+  },
+  {
+    "objectID": "google-analytics.html#key-google-analytics-concepts",
+    "href": "google-analytics.html#key-google-analytics-concepts",
+    "title": "Google Analytics",
+    "section": "Key Google Analytics Concepts",
+    "text": "Key Google Analytics Concepts\n\nEngagement\nEngagement shows how users interact with a website after they arrive. Important engagement metrics can include page views, average engagement time, clicks, and returning users.\nThis connects to marketing because strong content should keep people interested. For example, if customers spend more time viewing furniture product pages, that may suggest the products, images, or descriptions are attracting attention.\n\n\nAudience Insights\nAudience insights help marketers understand who is interacting with their content. This can include user behavior, interests, location, device type, and returning visitor patterns.\nFor my marketing career, audience insights are valuable because strong marketing should be designed for a specific target audience. With Homey Design, audience insights could help identify what types of furniture customers are most interested in. For CEO Club, they could help show what types of students are most engaged with entrepreneurship events, newsletters, and social media content.\n\n\nAcquisition\nAcquisition focuses on where users come from. This can include organic search, direct traffic, paid search, referrals, email, or social media.\nIn marketing, acquisition matters because it helps identify which channels are bringing people to a website. For a business like Homey Design, this could help show whether customers are finding the company through Google Search, social media, online ads, or direct website visits."
+  },
+  {
+    "objectID": "google-analytics.html#google-analytics-achievements",
+    "href": "google-analytics.html#google-analytics-achievements",
+    "title": "Google Analytics",
+    "section": "Google Analytics Achievements",
+    "text": "Google Analytics Achievements\nThrough my Google Analytics certification and coursework, I developed skills in measuring digital performance, understanding user behavior, and connecting analytics data to marketing decisions.\n\n\nEarned Google Analytics Certification\nCompleted Google Analytics certification training and demonstrated knowledge of important analytics concepts, including reports, events, engagement, and digital performance measurement.\n\n\nLearned Website Traffic Analysis\nDeveloped an understanding of how to evaluate where users come from, including organic search, direct traffic, referrals, social media, and paid marketing channels.\n\n\nPracticed Engagement Analysis\nLearned how to review user engagement metrics such as page views, clicks, average engagement time, and returning visitors to better understand how people interact with digital content.\n\n\nConnected Analytics to Marketing Decisions\nPracticed using Google Analytics insights to support marketing decisions, such as identifying strong traffic sources, improving content strategy, and measuring audience interest."
+  },
+  {
+    "objectID": "google-analytics.html#reflection",
+    "href": "google-analytics.html#reflection",
+    "title": "Google Analytics",
+    "section": "Reflection",
+    "text": "Reflection\nIBM 3202 helped me build a stronger understanding of how marketing data can be used to make better business decisions. I learned that successful marketing is not only about creating content, but also about measuring performance, understanding customer behavior, and using evidence to improve future strategy.\nThis class gave me practical experience with tools like Google Analytics. These skills support my career goal of becoming a marketing professional who can combine creativity, business strategy, and data-driven decision-making."
+  },
+  {
+    "objectID": "presentation.html#about-me",
+    "href": "presentation.html#about-me",
+    "title": "Marketing Portfolio Presentation",
+    "section": "About Me",
+    "text": "About Me\nI am a Cal Poly Pomona student interested in marketing, digital promotion, customer engagement, and business analytics.\nMy goal is to connect creative marketing with data-driven decision-making."
+  },
+  {
+    "objectID": "presentation.html#my-marketing-focus",
+    "href": "presentation.html#my-marketing-focus",
+    "title": "Marketing Portfolio Presentation",
+    "section": "My Marketing Focus",
+    "text": "My Marketing Focus\n\n\nDigital marketing\n\n\n\n\nBrand promotion\n\n\n\n\nCustomer engagement\n\n\n\n\nMarketing analytics"
+  },
+  {
+    "objectID": "presentation.html#homey-design-experience",
+    "href": "presentation.html#homey-design-experience",
+    "title": "Marketing Portfolio Presentation",
+    "section": "Homey Design Experience",
+    "text": "Homey Design Experience\nAt Homey Design, I gained hands-on experience supporting marketing and sales for a furniture business.\nI practiced creating product-focused promotional messages that communicate:\n\nStyle\nComfort\nQuality\nCustomer value"
+  },
+  {
+    "objectID": "presentation.html#ceo-club-experience",
+    "href": "presentation.html#ceo-club-experience",
+    "title": "Marketing Portfolio Presentation",
+    "section": "CEO Club Experience",
+    "text": "CEO Club Experience\nThrough CEO Club, I developed experience in student leadership and marketing communication.\n\nStudent outreach\nSocial media promotion\nEvent communication\nNewsletter messaging\nCommunity engagement"
+  },
+  {
+    "objectID": "presentation.html#google-analytics-skills",
+    "href": "presentation.html#google-analytics-skills",
+    "title": "Marketing Portfolio Presentation",
+    "section": "Google Analytics Skills",
+    "text": "Google Analytics Skills\nIBM 3202 helped me understand how analytics can support marketing decisions.\nKey skills included:\n\nAcquisition analysis\nEngagement analysis\nAudience insights\nKPI tracking\nDashboard thinking"
+  },
+  {
+    "objectID": "presentation.html#marketing-dashboard",
+    "href": "presentation.html#marketing-dashboard",
+    "title": "Marketing Portfolio Presentation",
+    "section": "Marketing Dashboard",
+    "text": "Marketing Dashboard\nDashboards help marketers understand whether their strategies are working.\nImportant KPIs include:\n\nWebsite visits\nSocial engagement\nLeads\nConversion rate"
+  },
+  {
+    "objectID": "presentation.html#career-connection",
+    "href": "presentation.html#career-connection",
+    "title": "Marketing Portfolio Presentation",
+    "section": "Career Connection",
+    "text": "Career Connection\nMarketing is both creative and analytical.\n\nCreativity helps attract attention.\n\n\nAnalytics helps measure whether the strategy is working.\n\n\nTogether, they support smarter marketing decisions."
+  },
+  {
+    "objectID": "presentation.html#thank-you",
+    "href": "presentation.html#thank-you",
+    "title": "Marketing Portfolio Presentation",
+    "section": "Thank You",
+    "text": "Thank You\nThank you for viewing my marketing portfolio.\nQuestions?"
+  }
+]

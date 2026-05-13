@@ -1,0 +1,114 @@
+---
+title: "Marketing Portfolio Presentation"
+author: "Harrison Gan"
+format:
+  revealjs:
+    theme: simple
+    css: presentation-styles.css
+    transition: fade
+    slide-number: true
+    footer: "Harrison Gan | Marketing Portfolio"
+---
+## About Me
+
+I am a Cal Poly Pomona student interested in marketing, digital promotion, customer engagement, and business analytics.
+
+My goal is to connect creative marketing with data-driven decision-making.
+
+---
+
+## My Marketing Focus
+
+::: {.fragment}
+- Digital marketing
+:::
+
+::: {.fragment}
+- Brand promotion
+:::
+
+::: {.fragment}
+- Customer engagement
+:::
+
+::: {.fragment}
+- Marketing analytics
+:::
+
+---
+
+## Homey Design Experience
+
+At Homey Design, I gained hands-on experience supporting marketing and sales for a furniture business.
+
+I practiced creating product-focused promotional messages that communicate:
+
+- Style
+- Comfort
+- Quality
+- Customer value
+
+---
+
+## CEO Club Experience
+
+Through CEO Club, I developed experience in student leadership and marketing communication.
+
+- Student outreach
+- Social media promotion
+- Event communication
+- Newsletter messaging
+- Community engagement
+
+---
+
+## Google Analytics Skills
+
+IBM 3202 helped me understand how analytics can support marketing decisions.
+
+Key skills included:
+
+- Acquisition analysis
+- Engagement analysis
+- Audience insights
+- KPI tracking
+- Dashboard thinking
+
+---
+
+## Marketing Dashboard
+
+Dashboards help marketers understand whether their strategies are working.
+
+Important KPIs include:
+
+- Website visits
+- Social engagement
+- Leads
+- Conversion rate
+
+---
+
+## Career Connection
+
+Marketing is both creative and analytical.
+
+::: {.fragment}
+Creativity helps attract attention.
+:::
+
+::: {.fragment}
+Analytics helps measure whether the strategy is working.
+:::
+
+::: {.fragment}
+Together, they support smarter marketing decisions.
+:::
+
+---
+
+## Thank You
+
+Thank you for viewing my marketing portfolio.
+
+Questions?

@@ -1,0 +1,70 @@
+---
+title: "Home"
+---
+
+::::::: hero
+![](images/hero.jpg){.hero-photo}
+
+:::::: hero-text
+::: hero-name
+Harrison Gan
+:::
+
+::: hero-title
+Marketing student.<br> Digital marketing creator.<br> Analytics-driven business thinker.
+:::
+
+I am a Cal Poly Pomona student focused on **marketing, brand promotion, customer engagement, and data-driven decision-making**.
+
+My portfolio highlights my experience with Homey Design, Collegiate Entrepreneurs Organization, Google Analytics, dashboards, and professional business communication.
+
+::: hero-buttons
+[View Marketing Work](projects.qmd){.btn .btn-primary} [Google Analytics](google-analytics.qmd){.btn .btn-outline-primary}
+:::
+::::::
+:::::::
+
+------------------------------------------------------------------------
+
+## What I Do
+
+My marketing interests combine **creativity, business strategy, and analytics**.
+
+I enjoy creating promotional content, improving brand communication, understanding customer behavior, and using data to support stronger marketing decisions.
+
+## Featured Experience
+
+### Homey Design Marketing
+
+Developed experience with furniture marketing, product promotion, visual presentation, and customer-focused messaging for bedroom, dining room, and living room collections.
+
+### CEO Club Marketing Leadership
+
+Supported marketing, outreach, newsletters, social media content, and student engagement through the Collegiate Entrepreneurs Organization at Cal Poly Pomona.
+
+### Marketing Analytics Coursework
+
+Practiced using Google Analytics 4, dashboards, KPIs, Quarto, and data visualization to measure digital marketing performance.
+
+## Skills
+
+-   Digital marketing
+-   Product promotion
+-   Social media marketing
+-   Brand messaging
+-   Customer engagement
+-   Newsletter communication
+-   Event promotion
+-   Google Analytics 4
+-   KPI tracking
+-   Dashboard creation
+-   Quarto website development
+-   Business communication
+
+## Contact Me
+
+**Want to know more about how my skill set can help you?**
+
+Whether you’re looking for someone with marketing, business analytics, digital promotion, or customer engagement experience, I’d love to connect.
+
+[harrisongan\@cpp.edu](mailto:harrisongan@cpp.edu) · [LinkedIn](www.linkedin.com/in/harrison-gan-1943842a3)

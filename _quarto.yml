@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Harrison Gan Marketing Portfolio"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: projects.qmd
+        text: Marketing Portfolio
+      - href: dashboard.qmd
+        text: Marketing Dashboard
+      - href: presentation.qmd
+        text: Revealjs Presentation
+      - href: google-analytics.qmd
+        text: Google Analytics
+    right:
+      - icon: envelope
+        href: "mailto:harrisongan@cpp.edu"
+        aria-label: Email
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/harrison-gan-1943842a3"
+        aria-label: LinkedIn
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    number-sections: false

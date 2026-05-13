@@ -1,0 +1,232 @@
+/* =========================
+   Harrison Gan Professional Theme
+   ========================= */
+
+/* Entire website background */
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 1.6;
+  background-color: #f7f2ea;
+  color: #1f1f24;
+}
+
+/* Main content area */
+main.content {
+  background-color: #f7f2ea;
+  max-width: 1100px;
+  padding-top: 1.5rem;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #2d2438 !important;
+  font-size: 1.05rem;
+  border-bottom: 4px solid #c7783e;
+}
+
+/* Navbar title */
+.navbar-title {
+  font-size: 1.35rem;
+  font-weight: 700;
+  color: #ffffff !important;
+}
+
+/* Navbar links */
+.navbar a {
+  color: #ffffff !important;
+}
+
+.navbar a:hover {
+  color: #f0b27a !important;
+}
+
+/* Main page titles */
+h1 {
+  color: #2d2438;
+  font-weight: 800;
+  font-size: 2.4rem;
+}
+
+/* Section titles */
+h2 {
+  color: #a85d2a;
+  font-weight: 800;
+  border-bottom: 2px solid #d9c6ad;
+  padding-bottom: 0.35rem;
+  margin-top: 2.2rem;
+}
+
+/* Smaller headings */
+h3 {
+  color: #2f6f73;
+  font-weight: 700;
+}
+
+/* Links */
+a {
+  color: #2f6f73;
+  font-weight: 600;
+}
+
+a:hover {
+  color: #a85d2a;
+}
+
+/* Homepage hero section */
+.hero {
+  display: grid;
+  grid-template-columns: 1fr 1.5fr;
+  gap: 3rem;
+  align-items: center;
+  padding: 2.5rem;
+  background-color: #efe4d6;
+  border-radius: 18px;
+  border: 1px solid #d9c6ad;
+  margin-bottom: 2rem;
+}
+
+/* Hero name */
+.hero-name {
+  font-size: 2.8rem;
+  color: #2d2438;
+  font-weight: 800;
+  margin-bottom: 1rem;
+}
+
+/* Hero subtitle */
+.hero-title {
+  font-size: 1.55rem;
+  font-weight: 800;
+  color: #2f6f73;
+  margin-bottom: 1.3rem;
+}
+
+/* Hero paragraph */
+.hero-text {
+  font-size: 1.12rem;
+  max-width: 650px;
+}
+
+/* Headshot */
+.hero-photo {
+  width: 230px;
+  height: 230px;
+  border-radius: 50%;
+  object-fit: cover;
+  display: block;
+  border: 6px solid #ffffff;
+  box-shadow: 0 8px 24px rgba(45, 36, 56, 0.25);
+}
+
+/* Buttons */
+.hero-buttons {
+  margin-top: 2rem;
+}
+
+.btn-primary {
+  background-color: #2d2438;
+  border-color: #2d2438;
+  color: white !important;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 0.55rem 1rem;
+}
+
+.btn-outline-primary {
+  color: #2d2438 !important;
+  border-color: #2d2438;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 0.55rem 1rem;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover {
+  background-color: #a85d2a;
+  border-color: #a85d2a;
+  color: white !important;
+}
+
+/* Portfolio section title icons */
+.portfolio-title {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  color: #a85d2a;
+  font-weight: 800;
+  border-bottom: 2px solid #d9c6ad;
+  padding-bottom: 0.45rem;
+  margin-top: 2.2rem;
+}
+
+.section-icon {
+  width: 46px;
+  height: 46px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid #ffffff;
+  box-shadow: 0 4px 12px rgba(45, 36, 56, 0.18);
+}
+
+/* Google Analytics achievement cards */
+.achievement-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.2rem;
+  margin: 2rem 0;
+}
+
+.achievement-card {
+  background-color: #efe4d6;
+  border: 1px solid #d9c6ad;
+  border-left: 5px solid #2f6f73;
+  border-radius: 14px;
+  padding: 1.2rem;
+  box-shadow: 0 4px 14px rgba(45, 36, 56, 0.08);
+}
+
+.achievement-card h3 {
+  margin-top: 0;
+  color: #2d2438;
+}
+
+/* Certification image */
+.cert-image {
+  max-width: 750px;
+  width: 100%;
+  border-radius: 14px;
+  border: 1px solid #d9c6ad;
+  box-shadow: 0 6px 18px rgba(45, 36, 56, 0.18);
+  margin: 1.5rem 0;
+}
+
+/* Images */
+img {
+  border-radius: 12px;
+  max-width: 100%;
+}
+
+/* Table of contents */
+.sidebar nav[role="doc-toc"] {
+  background-color: #efe4d6;
+  border-left: 4px solid #c7783e;
+  padding: 1rem;
+  border-radius: 10px;
+}
+
+/* Mobile formatting */
+@media (max-width: 768px) {
+  .hero {
+    grid-template-columns: 1fr;
+    padding: 1.5rem;
+  }
+
+  .hero-photo {
+    width: 180px;
+    height: 180px;
+  }
+
+  .achievement-grid {
+    grid-template-columns: 1fr;
+  }
+}
