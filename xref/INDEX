@@ -1,0 +1,29 @@
+{
+  "index.qmd": {
+    "index.html": "fe1a10eb"
+  },
+  "about.qmd": {
+    "about.html": "2254f556"
+  },
+  "projects.qmd": {
+    "projects.html": "50c2dfc4"
+  },
+  "dashboard.qmd": {
+    "dashboard.html": "e0e09bfa"
+  },
+  "presentation.qmd": {
+    "presentation.html": "30919b22"
+  },
+  "Market Analytic Projects.qmd": {
+    "Market Analytic Projects.html": "97151acc"
+  },
+  "Google Analytics.qmd": {
+    "Google Analytics.html": "222021bf"
+  },
+  "Google-Analytics.qmd": {
+    "Google-Analytics.html": "bc55a3f9"
+  },
+  "google-analytics.qmd": {
+    "google-analytics.html": "07080980"
+  }
+}

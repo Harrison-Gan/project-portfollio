@@ -1,0 +1,17 @@
+{
+  "hash": "caea762be7a09986ec2cf554eed407e5",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Marketing Dashboard\"\n---\n\nThis dashboard connects what I learned in **IBM3202** to my career interests in marketing, digital promotion, customer engagement, and business analytics.\n\nThe goal of this page is to show how marketing data can be **organize** into **clear visuals** that help businesses make **better decisions**.\n\nThis dashboard uses sample marketing data to represent the types of metrics I would track for a business\n\n\n\n## Latest Month Summary\n\n\n::: {.cell}\n::: {.cell-output .cell-output-stdout}\n\n```\n# A tibble: 1 × 5\n  Month Website_Visits Social_Engagement Leads Conversion_Rate\n  <fct>          <dbl>             <dbl> <dbl>           <dbl>\n1 Jun             1950               465    82             4.2\n```\n\n\n:::\n:::\n\n\nFor the latest month, the dashboard shows:\n\n-   **Website Visits:** 1950\n-   **Social Engagement:** 465\n-   **Leads:** 82\n-   **Conversion Rate:** 4.2%\n\nThese KPIs connect to marketing because they help measure awareness, engagement, customer interest, and action.\n\n## Website Visits Over Time\n\nWebsite visits help measure digital visibility. In marketing, this can show whether more people are discovering a business, campaign, or organization online.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-2-1.png){width=672}\n:::\n:::\n\n\n## Social Media Engagement\n\nSocial media engagement is important because it shows whether content is connecting with an audience. Strong content can help increase attention, interest, and participation.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-3-1.png){width=672}\n:::\n:::\n\n\n## Leads Generated\n\nLeads represent potential customers or people showing interest. For a business, leads could come from website visits, product inquiries, social media messages, or promotional campaigns.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-4-1.png){width=672}\n:::\n:::\n\n\n## Conversion Rate\n\nConversion rate shows the percentage of users who take a valuable action. In marketing, this matters because it helps measure whether attention is turning into results.\n\n\n::: {.cell}\n::: {.cell-output-display}\n![](dashboard_files/figure-html/unnamed-chunk-5-1.png){width=672}\n:::\n:::\n\n\n## Reflection\n\nA strong marketing strategy should attract attention, communicate value, and produce measurable results. Through IBM3202, I learned how tools like Quarto, R, dashboards, and Google Analytics can be used to organize business information clearly and support smarter decisions based on evidence instead of guessing.\n\nI can apply these skills to real marketing situations, such as promoting products, improving social media performance, increasing event engagement, and evaluating marketing campaigns.\n",
+    "supporting": [
+      "dashboard_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
